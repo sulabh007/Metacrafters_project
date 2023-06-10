@@ -38,8 +38,8 @@ function mint(address _address, uint _val) public {
 
 Contributors names and contact info
 
-ex. Sulabh Jha 
-ex. [@SulabhJha](https://www.linkedin.com/in/sulabh-jha-6709621a0/)
+* Sulabh Jha 
+* [@SulabhJha](https://www.linkedin.com/in/sulabh-jha-6709621a0/)
 
 
 ## License
